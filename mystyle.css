@@ -1,0 +1,29 @@
+h1 {
+  text-decoration: underline;
+}
+p {
+  background-color: teal;
+  border-style: solid;
+  padding: 10px;
+  margin: 100px;
+}
+
+#content {
+  text-align: justify;
+}
+
+#column_one {
+  float: left;
+  width: 40%;
+  padding: 5%;
+}
+
+#column_three {
+  float: right;
+  width: 40%;
+  padding: 5px;
+}
+
+.centered {
+  text-align: right
+}
